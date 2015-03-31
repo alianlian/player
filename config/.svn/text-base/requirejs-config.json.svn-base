@@ -1,0 +1,102 @@
+{
+    "mainModule": [
+        "home",
+        "home2",
+        "profile",
+        "song",
+        "feed",
+
+        "sign_in",
+        "sign_up",
+        "edit_profile",
+        "upload",
+        "edit_record",
+        "forgot_password",
+        
+        "message",
+        "follows_fans",
+        "search",
+        "musician",
+        
+        "battle",
+        "powerlist",
+        
+        "mobile/player",
+        "mobile/singer",
+        "mobile/download",
+        "mobile/home",
+
+        "eban/sign_up",
+        "eban/upload_page",
+        "eban/edit_record",
+
+        "check",
+        "report",
+        "song_online",
+        "user_manage",
+        "all_song",
+        "recommend_singer",
+        "active_singer",
+        "edit_card",
+        "zombie_user"
+    ],
+    "tempModule": [
+        
+    ],
+    "modulePaths": {
+        "home": "main/home",
+        "home2": "main/home2",
+        "profile": "main/profile",
+        "song": "main/song",
+        "feed": "main/feed",
+
+        "sign_in": "main/sign_in",
+        "sign_up": "main/sign_up",
+        "edit_profile": "main/edit_profile",
+        "upload": "main/upload",
+        "edit_record": "main/edit_record",
+        "forgot_password": "main/forgot_password",
+
+        "message": "main/message",
+        "follows_fans": "main/follows_fans",
+        "search": "main/search",
+        "musician":"main/musician",
+        
+        "battle": "main/battle",
+        "powerlist": "main/powerlist",
+        
+        "mobile/comment": "main/mobile/comment",
+        "mobile/download": "main/mobile/download",
+        "mobile/player": "main/mobile/player",
+        "mobile/singer": "main/mobile/singer",
+        "mobile/home": "main/mobile/home",
+        
+        "eban/sign_up": "main/eban/sign_up",
+        "eban/upload_page": "main/eban/upload_page",
+        "eban/edit_record": "main/eban/edit_record",
+
+        "check": "main/check",
+        "report": "main/report",
+        "song_online": "main/song_online",
+        "user_manage": "main/user_manage",
+        "all_song": "main/all_song",
+        "recommend_singer":"main/recommend_singer",
+        "active_singer":"main/active_singer",
+        "edit_card":"main/edit_card",
+        "zombie_user":"main/zombie_user",
+
+        "jquery": "lib/jquery-1.11.1.min",
+        "jquery_modal": "lib/jquery.modal",
+        "jquery_validate": "lib/jquery.validate",
+        "jquery_atwho": "lib/jquery.atwho.min",
+        "jquery_caret": "lib/jquery.caret.min",
+
+        "md5": "lib/md5.min",
+        "locache": "lib/locache.min",
+        "IChanggePlayer": "lib/ichangge-player",
+        "Qiniu": "lib/qiniu",
+        "socket_io": "lib/socket.io-client",
+        "hook": "lib/hook",
+        "mousewheel": "lib/mousewheel"
+    }
+}

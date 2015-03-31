@@ -1,0 +1,12 @@
+{
+    "scriptsDir": "assets/scripts/",
+    "mainScriptsDir": "assets/scripts/main/",
+    "releaseDir": "assets/scripts/main/release/",
+    "concatDir": "deploy_temp/concat/",
+    "diffDir": "deploy_temp/diff/",
+
+    "cssDir": "assets/css/",
+    "imagesDir": "assets/css/images/",
+    "releaseImagesDir": "assets/styles/release/images/",
+    "releaseStylesDir": "assets/styles/release/"
+}

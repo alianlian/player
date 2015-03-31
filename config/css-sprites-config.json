@@ -1,0 +1,35 @@
+{
+    "hover": {
+    	"icon-play-whole-hover": "play-list-btn",
+        "icon-share-list-hover": "share-list-btn",
+        "icon-feed-like-hover": "feed-action",
+        "icon-feed-comment-hover": "feed-action",
+        "icon-feed-share-hover": "feed-action",
+        "icon-song-like-hover": "song-like-btn",
+        "icon-song-liking-hover": "song-like-btn",
+        "icon-song-share-hover": "song-share-btn",
+        "icon-play-s-hover": "song-list-item",
+        "word-edit-hover": "btn-profile-edit",
+        "word-upload-cover-hover": "btn-cover-upload",
+        "icon-comment-hover" : "song-action",
+        "icon-like-hover" : "song-action",
+        "icon-liking-hover" : "song-action",
+        "icon-edit-hover" : "song-action",
+        "icon-delete-hover" : "song-action",
+        "icon-share-hover" : "song-action",
+        "icon-play-hover" : "song-wrapper",
+        "icon-renren-hover" : "renren-area",
+        "icon-qqzone-hover" : "qzone-area",
+        "icon-weibo-hover" : "weibo-area",
+        "icon-play-single-hover" : "feed-song-cover",
+        "icon-pause-hover" : "feed-song-cover"
+    },
+    "active": {
+        "word-song-active": "profile-action",
+        "word-feed-active": "profile-action",
+        "word-comment-active": "profile-action",
+        "icon-at-active": "nav-tab",
+        "icon-message-active": "nav-tab",
+        "icon-notify-active": "nav-tab"
+    }
+}
